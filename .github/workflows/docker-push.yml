@@ -1,4 +1,4 @@
-name: Docke image to docker hub
+name: Docker image to docker hub
 
 on: 
   push:
